@@ -1,0 +1,23 @@
+{
+  "name": "apiservice",
+  "version": "1.0.0",
+  "description": "REST API Web Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamjeth68/REST-API.git"
+  },
+  "author": "Hamjeth Misree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamjeth68/REST-API/issues"
+  },
+  "homepage": "https://github.com/Hamjeth68/REST-API#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express-openid-connect": "^2.5.0"
+  }
+}
